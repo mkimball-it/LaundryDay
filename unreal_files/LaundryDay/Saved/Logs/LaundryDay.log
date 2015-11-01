@@ -120,4 +120,39 @@
 [2015.11.01-19.46.42:556][  0]LogFileHelpers: Loading map 'Template_Default' took 0.221
 [2015.11.01-19.46.42:646][  0]LogCollectionManager: Loaded 0 collections in 0.001119 seconds
 [2015.11.01-19.46.42:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LaundryDay/unreal_files/LaundryDay/Saved/Collections/' took 0.01s
-[2015.11.01-19.46.42:686][  0]LogFileCache: Scanning file cache for directory '
+[2015.11.01-19.46.42:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LaundryDay/unreal_files/LaundryDay/Content/Developers/Quadzilla/Collections/' took 0.01s
+[2015.11.01-19.46.42:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/LaundryDay/unreal_files/LaundryDay/Content/Collections/' took 0.01s
+[2015.11.01-19.46.42:686][  0]LogContentBrowser: Native class hierarchy populated in 0.0056 seconds. Added 1867 classes and 333 folders.
+[2015.11.01-19.46.42:691][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2015.11.01-19.46.42:695][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2015.11.01-19.46.42:723][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2015.11.01-19.46.42:726][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2015.11.01-19.46.42:763][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.11.01-19.46.42:766][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.11.01-19.46.42:788][  0]LogLoad: Full Startup: 4.23 seconds (BP compile: 0.03 seconds)
+[2015.11.01-19.46.42:842][  0]SourceControl: Info On branch master
+[2015.11.01-19.46.42:842][  0]SourceControl: Info Your branch is ahead of 'origin/master' by 2 commits.
+[2015.11.01-19.46.42:842][  0]SourceControl: Info   (use "git push" to publish your local commits)
+[2015.11.01-19.46.42:842][  0]SourceControl: Info Changes not staged for commit:
+[2015.11.01-19.46.42:842][  0]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2015.11.01-19.46.42:842][  0]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2015.11.01-19.46.42:842][  0]SourceControl: Info 	modified:   unreal_files/LaundryDay/Intermediate/CachedAssetRegistry.bin
+[2015.11.01-19.46.42:842][  0]SourceControl: Info 	modified:   unreal_files/LaundryDay/Saved/AutoScreenshot.png
+[2015.11.01-19.46.42:842][  0]SourceControl: Info 	modified:   unreal_files/LaundryDay/Saved/Autosaves/PackageRestoreData.json
+[2015.11.01-19.46.42:842][  0]SourceControl: Info 	modified:   unreal_files/LaundryDay/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2015.11.01-19.46.42:842][  0]SourceControl: Info 	modified:   unreal_files/LaundryDay/Saved/Logs/LaundryDay.log
+[2015.11.01-19.46.42:842][  0]SourceControl: Info Untracked files:
+[2015.11.01-19.46.42:842][  0]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2015.11.01-19.46.42:842][  0]SourceControl: Info 	unreal_files/LaundryDay/Saved/Logs/LaundryDay-backup-2015.11.01-14.46.38.log
+[2015.11.01-19.46.42:842][  0]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2015.11.01-19.46.42:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2015.11.01-19.46.42:936][  0]LogRenderer: Reallocating scene render targets to support 912x504 (Frame:2).
+[2015.11.01-19.46.43:035][  2]LogAssetRegistry: Asset discovery search completed in 1.4810 seconds
+[2015.11.01-19.46.43:035][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2015.11.01-19.46.43:035][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2015.11.01-19.48.17:493][534]LogAIModule: Creating AISystem for world Level1_prototype
+[2015.11.01-19.48.17:514][534]Cmd: MAP LOAD FILE="C:/Users/Michael/Documents/Unreal Projects/LaundryDay/unreal_files/LaundryDay/Content/Levels/Level1_prototype/Level1_prototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.11.01-19.48.17:514][534]LightingResults: New page: Lighting Build
+[2015.11.01-19.48.17:530][534]LoadErrors: New page: Loading map: Level1_prototype.umap
+[2015.11.01-19.48.17:530][534]MapCheck: New page: Map Check
+[2015.11.01-19.48.17:530][534]LightingResults: New
